@@ -4,11 +4,11 @@
 
 tag format:
 
-- 7.4: php version, support 7.3/7.4/8.0/8.1, Recommend 8.0
+- 8.0: php version, support 7.3/7.4/8.0/8.1, Recommend 8.0
 - alpine: base images, supoort alpine/ubuntu, recommend alpine
-- v3.11: alpine version, support alpine 3.10/3.11/3.12/3.13/3.14/3.15, recommend 3.14
+- v3.15: alpine version, support alpine 3.10/3.11/3.12/3.13/3.14/3.15, recommend 3.15
 - swoole: support base/dev/swoole/swow
-- v4.5.5: swoole/swow version
+- v4.8.4: swoole/swow version
 
 support:
 
